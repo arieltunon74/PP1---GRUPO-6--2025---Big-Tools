@@ -1,0 +1,156 @@
+** Cookiecutter para Data Science - PP1 - Grupo 6
+
+
+project_name (project_name): PP1-BIGTOOLS-GRUPO6
+repo_name (pp1-bigtools-grupo6): repo_bigtools_g6
+module_name (pp1_bigtools_grupo6): sprint1
+author_name (Your name (or your organization/company/team)): grupo6
+description (A short description of the project.): Modulo para el proyecto de PP1 - BIGTOOLS - Grupo6
+python_version_number (3.10): 3.12.6
+
+Select dataset_storage
+    1 - none
+    2 - azure
+    3 - s3
+    4 - gcs
+    Choose from [1/2/3/4] (1): 1
+
+Select environment_manager
+    1 - virtualenv
+    2 - conda
+    3 - pipenv
+    4 - uv
+    5 - pixi
+    6 - poetry
+    7 - none
+    Choose from [1/2/3/4/5/6/7] (1): 7
+
+Select dependency_file
+    1 - requirements.txt
+    2 - pyproject.toml
+    3 - environment.yml
+    4 - Pipfile
+    5 - pixi.toml
+    Choose from [1/2/3/4/5] (1): 1
+
+Select pydata_packages
+    1 - none
+    2 - basic
+    Choose from [1/2] (1): 1
+
+Select testing_framework
+    1 - none
+    2 - pytest
+    3 - unittest
+    Choose from [1/2/3] (1): 1
+
+Select linting_and_formatting
+    1 - ruff
+    2 - flake8+black+isort
+    Choose from [1/2] (1): 1
+
+Select open_source_license
+    1 - No license file
+    2 - MIT
+    3 - BSD-3-Clause
+    Choose from [1/2/3] (1): 1
+
+Select docs
+    1 - mkdocs
+    2 - none
+    Choose from [1/2] (1): 2
+
+Select include_code_scaffold
+    1 - Yes
+    2 - No
+    Choose from [1/2] (1): 1
+
+
+** Esto lo sincronizan en el repositorio GIT y luego cada uno lo descarga de ahí
+
+En la ventana de comandos de cmd se puede escribir cd para acceder al repositorio:
+
+cd repo_bigtools_g6
+
+En Windows: en cmd: Escribe dir para listar el contenido del directorio. 
+
+
+C:\Users\ariel.tunon\repo_bigtools_g6>dir
+
+
+ Volume in drive C is Windows
+ Volume Serial Number is 2268-F53A
+
+ Directory of C:\Users\ariel.tunon\repo_bigtools_g6
+
+03/10/2025  11:52    <DIR>          .
+03/10/2025  11:52    <DIR>          ..
+03/10/2025  11:52               471 .env
+03/10/2025  11:52             3.963 .gitignore
+03/10/2025  11:52    <DIR>          data
+03/10/2025  11:52    <DIR>          docs
+03/10/2025  11:52             2.170 Makefile
+03/10/2025  11:52    <DIR>          models
+03/10/2025  11:52    <DIR>          notebooks
+03/10/2025  11:52               635 pyproject.toml
+03/10/2025  11:52             2.793 README.md
+03/10/2025  11:52    <DIR>          references
+03/10/2025  11:52    <DIR>          reports
+03/10/2025  11:52                53 requirements.txt
+03/10/2025  11:52    <DIR>          sprint1
+               6 File(s)         10.085 bytes
+               9 Dir(s)  30.092.267.520 bytes free
+
+con el comando tree se puede visualizar la estructura de los directorios:
+
+C:\Users\ariel.tunon\repo_bigtools_g6>tree
+
+Folder PATH listing for volume Windows
+Volume serial number is 2268-F53A
+C:.
+├───data
+│   ├───external
+│   ├───interim
+│   ├───processed
+│   └───raw
+├───docs
+├───models
+├───notebooks
+├───references
+├───reports
+│   └───figures
+└───sprint1
+    └───modeling
+
+C:\Users\ariel.tunon\repo_bigtools_g6>
+
+C:\Users\ariel.tunon\repo_bigtools_g6>git init
+Initialized empty Git repository in C:/Users/ariel.tunon/repo_bigtools_g6/.git/
+
+C:\Users\ariel.tunon\repo_bigtools_g6>git add README.md
+
+C:\Users\ariel.tunon\repo_bigtools_g6>git commit -m "primer commit grupo6 test"
+[master (root-commit) 6da7217] primer commit grupo6 test
+ 1 file changed, 61 insertions(+)
+ create mode 100644 README.md
+
+C:\Users\ariel.tunon\repo_bigtools_g6>git branch -M main
+
+C:\Users\ariel.tunon\repo_bigtools_g6>git remote add origin https://github.com/arieltunon74/PP1---GRUPO-6--2025---Big-Tools.git
+
+C:\Users\ariel.tunon\repo_bigtools_g6>git push -u origin main
+
+Enumerating objects: 3, done.
+Counting objects: 100% (3/3), done.
+Delta compression using up to 12 threads
+Compressing objects: 100% (2/2), done.
+Writing objects: 100% (3/3), 1.33 KiB | 453.00 KiB/s, done.
+Total 3 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
+To https://github.com/arieltunon74/PP1---GRUPO-6--2025---Big-Tools.git
+ * [new branch]      main -> main
+branch 'main' set up to track 'origin/main'.
+
+C:\Users\ariel.tunon\repo_bigtools_g6>
+
+
+--
