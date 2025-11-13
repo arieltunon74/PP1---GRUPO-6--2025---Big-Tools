@@ -1,0 +1,105 @@
+﻿falla_id;inventario_id;cliente_id;cliente_nombre;tipo_equipo;marca;modelo;fecha_deteccion;descripcion_falla;gravedad_1a5;causa_raiz;fecha_correccion;servicio_relacionado_id;ubicacion
+FD-000093;EQP-0069;CLI-049;Cliente 049;Generador Generac Guardian;Generac;Guardian 8 kVA (50Hz);5-mar-24;Bajo voltaje de salida;2;Sobrecarga puntual;17-mar-24;;Depósito 5 - Tolhuin
+FD-000072;EQP-0097;CLI-044;Cliente 044;Hidrolavadora Karcher;Kärcher;HDS 9/18-4 M;17-mar-25;Sobrecalentamiento por filtro obstruido;3;Desgaste natural;1-abr-25;SV-004036;Sucursal 5 - Río Grande
+FD-000057;EQP-0033;CLI-044;Cliente 044;Generador Generac Guardian;Generac;Guardian 8 kVA (50Hz);22-mar-24;Sobrevelocidad detectada;3;Sobrecarga puntual;1-abr-24;SV-003031;Taller 5 - Río Grande
+FD-000085;EQP-0096;CLI-048;Cliente 048;Hidrolavadora Karcher;Kärcher;HDS 9/18-4 M;27-abr-25;Sobrecalentamiento por filtro obstruido;2;Falta de limpieza;17-may-25;SV-004313;Planta 5 - Tolhuin
+FD-000068;EQP-0088;CLI-044;Cliente 044;Hidrolavadora Karcher;Kärcher;HDS 9/18-4 M;2-dic-22;Quemador no enciende;2;Componente defectuoso;22-dic-22;SV-003727;Sucursal 4 - Río Grande
+FD-000071;EQP-0097;CLI-044;Cliente 044;Hidrolavadora Karcher;Kärcher;HDS 9/18-4 M;21-sept-23;Sobrecalentamiento por filtro obstruido;2;Sobrecarga puntual;22-sept-23;SV-004053;Sucursal 5 - Tolhuin
+FD-000034;EQP-0057;CLI-030;Cliente 030;Soldadora Lincoln Ranger;Lincoln Electric;Ranger 305D;20-ene-24;Desgaste de cepillos del alternador;5;Ajuste incorrecto;30-ene-24;;Planta 4 - Tolhuin
+FD-000073;EQP-0076;CLI-044;Cliente 044;Motor Cummins;Cummins;QSB 4.5;15-jun-24;Temperatura elevada del refrigerante;4;Desgaste natural;6-may-24;;Taller 2 - Ushuaia
+FD-000109;EQP-0016;CLI-049;Cliente 049;Soldadora Lincoln Ranger;Lincoln Electric;Ranger 305D;9-sept-24;Sobretemperatura por radiador obstruido;3;Sobrecarga puntual;8-nov-24;;Oficina 5 - Ushuaia
+FD-000091;EQP-0060;CLI-049;Cliente 049;Generador Generac Guardian;Generac;Guardian 8 kVA (50Hz);24-may-23;Fallo en bujías;5;Desgaste natural;5-abr-23;;Obra 3 - Ushuaia
+FD-000055;EQP-0081;CLI-040;Cliente 040;Soldadora Lincoln Ranger;Lincoln Electric;Ranger 305D;15-feb-23;Dificultad de arranque (batería baja);5;Componente defectuoso;20-feb-23;;Obra 5 - Ushuaia
+FD-000053;EQP-0087;CLI-038;Cliente 038;Soldadora Lincoln Ranger;Lincoln Electric;Ranger 305D;12-jul-23;Desgaste de cepillos del alternador;5;Componente defectuoso;15-jul-23;;Oficina 1 - Tolhuin
+FD-000015;EQP-0086;CLI-014;Cliente 014;Motor Cummins;Cummins;QSB 6.7;22-ene-25;Baja presión de combustible;2;Desgaste natural;24-ene-25;;Planta 4 - Río Grande
+FD-000042;EQP-0024;CLI-036;Cliente 036;Hidrolavadora Karcher;Kärcher;HDS 9/18-4 M;15-jun-24;Pérdida de presión en manguera;3;Ajuste incorrecto;19-jun-24;;Planta 5 - Tolhuin
+FD-000029;EQP-0043;CLI-030;Cliente 030;Motor Cummins;Cummins;QSB 4.5;15-nov-22;Fallo sensor de presión de aceite;4;Sobrecarga puntual;21-nov-22;;Depósito 3 - Río Grande
+FD-000079;EQP-0034;CLI-044;Cliente 044;Soldadora Lincoln Ranger;Lincoln Electric;Ranger 305D;2-ene-23;Desgaste de cepillos del alternador;4;Desgaste natural;9-ene-23;SV-003064;Obra 1 - Río Grande
+FD-000086;EQP-0003;CLI-048;Cliente 048;Soldadora Lincoln Ranger;Lincoln Electric;Ranger 305D;7-ene-24;Desgaste de cepillos del alternador;3;Componente defectuoso;12-ene-24;SV-004139;Taller 3 - Tolhuin
+FD-000078;EQP-0034;CLI-044;Cliente 044;Soldadora Lincoln Ranger;Lincoln Electric;Ranger 305D;4-sept-22;Sobretemperatura por radiador obstruido;3;Sobrecarga puntual;11-sept-22;SV-003100;Obra 1 - Río Grande
+FD-000027;EQP-0043;CLI-030;Cliente 030;Motor Cummins;Cummins;QSB 4.5;22-ago-23;Baja presión de combustible;3;Componente defectuoso;23-ago-23;;Depósito 3 - Río Grande
+FD-000045;EQP-0002;CLI-036;Cliente 036;Motor Cummins;Cummins;QSB 6.7;18-may-24;Inyectores con suciedad;2;Falta de limpieza;26-may-24;;Sucursal 4 - Tolhuin
+FD-000009;EQP-0083;CLI-005;Cliente 005;Soldadora Lincoln Ranger;Lincoln Electric;Ranger 305D;10-oct-24;Fuga en conducto de combustible;4;Sobrecarga puntual;13-oct-24;;Planta 5 - Tolhuin
+FD-000012;EQP-0009;CLI-009;Cliente 009;Generador Generac Guardian;Generac;Guardian 10 kVA (50Hz);13-feb-23;Fallo en bujías;1;Ajuste incorrecto;4-mar-23;;Oficina 5 - Río Grande
+FD-000017;EQP-0008;CLI-023;Cliente 023;Hidrolavadora Karcher;Kärcher;HDS 9/18-4 M;5-ene-22;Quemador no enciende;3;Componente defectuoso;6-ene-22;SV-000862;Sucursal 4 - Río Grande
+FD-000077;EQP-0014;CLI-044;Cliente 044;Soldadora Lincoln Ranger;Lincoln Electric;Ranger 305D;3-may-24;Fuga en conducto de combustible;5;Sobrecarga puntual;3-may-24;;Sucursal 4 - Tolhuin
+FD-000016;EQP-0044;CLI-017;Cliente 017;Soldadora Lincoln Ranger;Lincoln Electric;Ranger 305D;31-ago-23;Desgaste de cepillos del alternador;3;Componente defectuoso;15-sept-23;SV-000804;Taller 5 - Río Grande
+FD-000050;EQP-0049;CLI-036;Cliente 036;Motor Cummins;Cummins;QSB 6.7;24-jun-24;Baja presión de combustible;4;Desgaste natural;11-jul-24;SV-002459;Sucursal 5 - Río Grande
+FD-000026;EQP-0066;CLI-026;Cliente 026;Soldadora Lincoln Ranger;Lincoln Electric;Ranger 305D;1-ene-23;Sobretemperatura por radiador obstruido;1;Ajuste incorrecto;4-ene-23;SV-001485;Obra 5 - Río Grande
+FD-000023;EQP-0028;CLI-026;Cliente 026;Motor Cummins;Cummins;QSB 4.5;26-ene-23;Fallo sensor de presión de aceite;3;Componente defectuoso;13-feb-23;SV-001326;Planta 5 - Tolhuin
+FD-000024;EQP-0066;CLI-026;Cliente 026;Soldadora Lincoln Ranger;Lincoln Electric;Ranger 305D;13-ene-22;Desgaste de cepillos del alternador;4;Sobrecarga puntual;15-ene-22;;Obra 5 - Ushuaia
+FD-000108;EQP-0016;CLI-049;Cliente 049;Soldadora Lincoln Ranger;Lincoln Electric;Ranger 305D;18-jul-24;Dificultad de arranque (batería baja);4;Sobrecarga puntual;23-jul-24;SV-004465;Oficina 5 - Tolhuin
+FD-000063;EQP-0077;CLI-044;Cliente 044;Generador Generac Guardian;Generac;Guardian 10 kVA (50Hz);5-abr-25;Fallo en bujías;3;Sobrecarga puntual;20-abr-25;;Planta 3 - Tolhuin
+FD-000074;EQP-0089;CLI-044;Cliente 044;Motor Cummins;Cummins;QSB 4.5;18-mar-23;Temperatura elevada del refrigerante;3;Ajuste incorrecto;20-mar-23;SV-003810;Taller 3 - Tolhuin
+FD-000103;EQP-0080;CLI-049;Cliente 049;Motor Cummins;Cummins;QSB 6.7;10-sept-23;Fallo sensor de presión de aceite;3;Desgaste natural;19-sept-23;;Depósito 3 - Ushuaia
+FD-000011;EQP-0058;CLI-008;Cliente 008;Soldadora Lincoln Ranger;Lincoln Electric;Ranger 305D;23-oct-24;Dificultad de arranque (batería baja);5;Componente defectuoso;2-nov-24;;Oficina 5 - Ushuaia
+FD-000037;EQP-0037;CLI-032;Cliente 032;Generador Generac Guardian;Generac;Guardian 13 kVA (50Hz);24-ene-25;;4;Componente defectuoso;11-feb-25;;Obra 3 - Ushuaia
+FD-000106;EQP-0011;CLI-049;Cliente 049;Soldadora Lincoln Ranger;Lincoln Electric;Ranger 305D;13-abr-23;Dificultad de arranque (batería baja);3;Componente defectuoso;22-abr-23;;Obra 5 - Río Grande
+FD-000087;EQP-0042;CLI-048;Cliente 048;Soldadora Lincoln Ranger;Lincoln Electric;Ranger 305D;26-ago-23;Desgaste de cepillos del alternador;3;Desgaste natural;27-ago-23;SV-004178;Oficina 1 - Ushuaia
+FD-000097;EQP-0031;CLI-049;Cliente 049;Hidrolavadora Karcher;Kärcher;HDS 12/18-4 S;23-may-25;Quemador no enciende;5;Componente defectuoso;12-jun-25;SV-004681;Oficina 3 - Río Grande
+FD-000041;EQP-0024;CLI-036;Cliente 036;Hidrolavadora Karcher;Kärcher;HDS 9/18-4 M;29-jul-23;Sobrecalentamiento por filtro obstruido;5;Sobrecarga puntual;4-ago-23;SV-002377;Planta 5 - Tolhuin
+FD-000056;EQP-0081;CLI-040;Cliente 040;Soldadora Lincoln Ranger;Lincoln Electric;Ranger 305D;20-mar-24;Fuga en conducto de combustible;1;Ajuste incorrecto;20-mar-24;SV-002923;Obra 5 - Ushuaia
+FD-000092;EQP-0060;CLI-049;Cliente 049;Generador Generac Guardian;Generac;Guardian 8 kVA (50Hz);13-abr-25;Fallo en bujías;3;Desgaste natural;14-abr-25;;Obra 3 - Ushuaia
+FD-000060;EQP-0077;CLI-044;Cliente 044;Generador Generac Guardian;Generac;Guardian 10 kVA (50Hz);27-abr-23;Sobrevelocidad detectada;1;Falta de limpieza;14-may-23;;Planta 3 - Tolhuin
+FD-000030;EQP-0043;CLI-030;Cliente 030;Motor Cummins;Cummins;QSB 4.5;29-sept-22;Fallo sensor de presión de aceite;3;Ajuste incorrecto;4-oct-22;;Depósito 3 - Río Grande
+FD-000084;EQP-0096;CLI-048;Cliente 048;Hidrolavadora Karcher;Kärcher;HDS 9/18-4 M;8-dic-24;Válvula de rebose fuera de ajuste;3;Componente defectuoso;14-dic-24;SV-004294;Planta 5 - Tolhuin
+FD-000040;EQP-0013;CLI-036;Cliente 036;Hidrolavadora Karcher;Kärcher;HDS 9/18-4 M;25-may-22;Pérdida de presión en manguera;5;Sobrecarga puntual;25-may-22;SV-002273;Oficina 1 - Tolhuin
+FD-000082;EQP-0084;CLI-044;Cliente 044;Soldadora Lincoln Ranger;Lincoln Electric;Ranger 305D;14-nov-23;Desgaste de cepillos del alternador;4;Falta de limpieza;28-nov-23;;Oficina 3 - Río Grande
+FD-000089;EQP-0063;CLI-048;Cliente 048;Soldadora Lincoln Ranger;Lincoln Electric;Ranger 305D;3-jul-22;Desgaste de cepillos del alternador;3;Ajuste incorrecto;20-abr-22;;Sucursal 4 - Tolhuin
+FD-000033;EQP-0057;CLI-030;Cliente 030;Soldadora Lincoln Ranger;Lincoln Electric;Ranger 305D;19-sept-25;Fuga en conducto de combustible;1;Componente defectuoso;21-sept-25;SV-001814;Planta 4 - Tolhuin
+FD-000014;EQP-0029;CLI-013;Cliente 013;Generador Generac Guardian;Generac;Guardian 8 kVA (50Hz);25-jun-25;Batería sin carga;1;Falta de limpieza;29-jun-25;;Depósito 5 - Ushuaia
+FD-000051;EQP-0064;CLI-038;Cliente 038;Hidrolavadora Karcher;Kärcher;HDS 12/18-4 S;11-ago-25;Sobrecalentamiento por filtro obstruido;2;Componente defectuoso;30-ago-25;SV-002523;Depósito 4 - Ushuaia
+FD-000111;EQP-0059;CLI-049;Cliente 049;Soldadora Lincoln Ranger;Lincoln Electric;Ranger 305D;12-ene-24;Fuga en conducto de combustible;2;Falta de limpieza;30-ene-24;SV-004728;Oficina 1 - Ushuaia
+FD-000070;EQP-0097;CLI-044;Cliente 044;Hidrolavadora Karcher;Kärcher;HDS 9/18-4 M;9-sept-24;Quemador no enciende;5;Desgaste natural;24-sept-24;SV-004061;Sucursal 5 - Río Grande
+FD-000022;EQP-0028;CLI-026;Cliente 026;Motor Cummins;Cummins;QSB 4.5;22-mar-25;Temperatura elevada del refrigerante;4;Sobrecarga puntual;3-abr-25;;Planta 5 - Ushuaia
+FD-000048;EQP-0030;CLI-036;Cliente 036;Motor Cummins;Cummins;QSB 6.7;23-mar-25;Fallo sensor de presión de aceite;2;Falta de limpieza;4-abr-25;;Taller 4 - Ushuaia
+FD-000039;EQP-0019;CLI-036;Cliente 036;Generador Generac Guardian;Generac;Guardian 13 kVA (50Hz);10-abr-24;Sobrevelocidad detectada;5;Falta de limpieza;28-abr-24;;Planta 1 - Río Grande
+FD-000101;EQP-0080;CLI-049;Cliente 049;Motor Cummins;Cummins;QSB 6.7;5-jul-22;Fallo sensor de presión de aceite;2;Componente defectuoso;17-jul-22;SV-004992;Depósito 3 - Ushuaia
+FD-000054;EQP-0046;CLI-039;Cliente 039;Hidrolavadora Karcher;Kärcher;HDS 9/18-4 M;12-ago-25;Pérdida de presión en manguera;1;Falta de limpieza;24-ago-25;SV-002777;Depósito 3 - Ushuaia
+FD-000096;EQP-0017;CLI-049;Cliente 049;Hidrolavadora Karcher;Kärcher;HDS 9/18-4 M;25-oct-24;Válvula de rebose fuera de ajuste;5;Ajuste incorrecto;11-nov-24;SV-004556;Sucursal 2 - Ushuaia
+FD-000083;EQP-0095;CLI-044;Cliente 044;Soldadora Lincoln Ranger;Lincoln Electric;Ranger 305D;8-sept-25;Fuga en conducto de combustible;4;Componente defectuoso;24-sept-25;SV-003983;Taller 2 - Río Grande
+FD-000061;EQP-0077;CLI-044;Cliente 044;Generador Generac Guardian;Generac;Guardian 10 kVA (50Hz);19-abr-22;Sobrevelocidad detectada;4;Ajuste incorrecto;29-abr-22;;Planta 3 - Río Grande
+FD-000064;EQP-0039;CLI-044;Cliente 044;Hidrolavadora Karcher;Kärcher;HDS 9/18-4 M;5-oct-24;Válvula de rebose fuera de ajuste;3;Ajuste incorrecto;5-oct-24;SV-003259;Planta 2 - Ushuaia
+FD-000099;EQP-0068;CLI-049;Cliente 049;Motor Cummins;Cummins;QSB 6.7;6-sept-24;Baja presión de combustible;4;Sobrecarga puntual;6-sept-24;SV-004860;Oficina 3 - Tolhuin
+FD-000062;EQP-0077;CLI-044;Cliente 044;Generador Generac Guardian;Generac;Guardian 10 kVA (50Hz);7-mar-22;;2;Falta de limpieza;25-mar-22;;Planta 3 - Ushuaia
+FD-000080;EQP-0034;CLI-044;Cliente 044;Soldadora Lincoln Ranger;Lincoln Electric;Ranger 305D;31-dic-22;;3;Componente defectuoso;6-ene-23;;Obra 1 - Río Grande
+FD-000031;EQP-0012;CLI-030;Cliente 030;Soldadora Lincoln Ranger;Lincoln Electric;Ranger 305D;15-may-23;Dificultad de arranque (batería baja);4;Sobrecarga puntual;18-may-23;;Depósito 2 - Tolhuin
+FD-000076;EQP-0014;CLI-044;Cliente 044;Soldadora Lincoln Ranger;Lincoln Electric;Ranger 305D;12-feb-22;Fuga en conducto de combustible;1;Ajuste incorrecto;28-feb-22;;Sucursal 4 - Ushuaia
+FD-000046;EQP-0007;CLI-036;Cliente 036;Motor Cummins;Cummins;QSB 4.5;13-ene-22;Inyectores con suciedad;1;Desgaste natural;18-ene-22;;Taller 4 - Tolhuin
+FD-000069;EQP-0094;CLI-044;Cliente 044;Hidrolavadora Karcher;Kärcher;HDS 9/18-4 M;27-may-22;Sobrecalentamiento por filtro obstruido;3;Falta de limpieza;12-jun-22;;Taller 2 - Río Grande
+FD-000004;EQP-0067;CLI-005;Cliente 005;Hidrolavadora Karcher;Kärcher;HDS 9/18-4 M;26-oct-24;Sobrecalentamiento por filtro obstruido;3;Sobrecarga puntual;9-nov-24;SV-000324;Sucursal 3 - Ushuaia
+FD-000066;EQP-0053;CLI-044;Cliente 044;Hidrolavadora Karcher;Kärcher;HDS 12/18-4 S;14-abr-25;Pérdida de presión en manguera;5;Falta de limpieza;19-abr-25;;Oficina 2 - Tolhuin
+FD-000105;EQP-0004;CLI-049;Cliente 049;Soldadora Lincoln Ranger;Lincoln Electric;Ranger 305D;12-ago-24;Sobretemperatura por radiador obstruido;3;Componente defectuoso;26-ago-24;;Planta 4 - Río Grande
+FD-000067;EQP-0053;CLI-044;Cliente 044;Hidrolavadora Karcher;Kärcher;HDS 12/18-4 S;11-ago-25;Pérdida de presión en manguera;3;Falta de limpieza;17-ago-25;;Oficina 2 - Ushuaia
+FD-000058;EQP-0062;CLI-044;Cliente 044;Generador Generac Guardian;Generac;Guardian 10 kVA (50Hz);8-sept-24;Sobrevelocidad detectada;5;Falta de limpieza;16-sept-24;;Obra 1 - Río Grande
+FD-000059;EQP-0062;CLI-044;Cliente 044;Generador Generac Guardian;Generac;Guardian 10 kVA (50Hz);29-abr-25;Fallo en bujías;2;Sobrecarga puntual;9-may-25;SV-003467;Obra 1 - Río Grande
+FD-000002;EQP-0085;CLI-001;Cliente 001;Generador Generac Guardian;Generac;Guardian 8 kVA (50Hz);5-sept-22;Fallo en bujías;1;Componente defectuoso;22-sept-22;SV-000116;Depósito 3 - Tolhuin
+FD-000018;EQP-0026;CLI-026;Cliente 026;Hidrolavadora Karcher;Kärcher;HDS 12/18-4 S;19-jun-25;Pérdida de presión en manguera;4;Sobrecarga puntual;28-jun-25;SV-001248;Taller 4 - Tolhuin
+FD-000044;EQP-0002;CLI-036;Cliente 036;Motor Cummins;Cummins;QSB 6.7;7-abr-24;Temperatura elevada del refrigerante;2;Sobrecarga puntual;26-abr-24;SV-002144;Sucursal 4 - Tolhuin
+FD-000038;EQP-0100;CLI-032;Cliente 032;Hidrolavadora Karcher;Kärcher;HDS 12/18-4 S;2-nov-23;Válvula de rebose fuera de ajuste;5;Ajuste incorrecto;14-nov-23;SV-002027;Planta 2 - Río Grande
+FD-000007;EQP-0041;CLI-005;Cliente 005;Soldadora Lincoln Ranger;Lincoln Electric;Ranger 305D;4-dic-22;Dificultad de arranque (batería baja);5;Componente defectuoso;23-dic-22;SV-000224;Taller 2 - Ushuaia
+FD-000075;EQP-0089;CLI-044;Cliente 044;Motor Cummins;Cummins;QSB 4.5;2-dic-22;Baja presión de combustible;3;Desgaste natural;16-dic-22;SV-003799;Taller 3 - Tolhuin
+FD-000021;EQP-0032;CLI-026;Cliente 026;Hidrolavadora Karcher;Kärcher;HDS 9/18-4 M;18-oct-23;Válvula de rebose fuera de ajuste;4;Sobrecarga puntual;1-nov-23;SV-001419;Planta 3 - Río Grande
+FD-000107;EQP-0011;CLI-049;Cliente 049;Soldadora Lincoln Ranger;Lincoln Electric;Ranger 305D;27-nov-22;Dificultad de arranque (batería baja);5;Desgaste natural;14-dic-22;SV-004426;Obra 5 - Río Grande
+FD-000052;EQP-0087;CLI-038;Cliente 038;Soldadora Lincoln Ranger;Lincoln Electric;Ranger 305D;18-dic-23;Desgaste de cepillos del alternador;3;Falta de limpieza;24-dic-23;;Oficina 1 - Tolhuin
+FD-000110;EQP-0016;CLI-049;Cliente 049;Soldadora Lincoln Ranger;Lincoln Electric;Ranger 305D;16-abr-23;Sobretemperatura por radiador obstruido;3;Desgaste natural;5-may-23;SV-004487;Oficina 5 - Río Grande
+FD-000102;EQP-0080;CLI-049;Cliente 049;Motor Cummins;Cummins;QSB 6.7;19-abr-24;Temperatura elevada del refrigerante;4;Ajuste incorrecto;7-may-24;;Depósito 3 - Ushuaia
+FD-000010;EQP-0083;CLI-005;Cliente 005;Soldadora Lincoln Ranger;Lincoln Electric;Ranger 305D;27-nov-22;Dificultad de arranque (batería baja);4;Falta de limpieza;30-nov-22;SV-000480;Planta 5 - Ushuaia
+FD-000088;EQP-0042;CLI-048;Cliente 048;Soldadora Lincoln Ranger;Lincoln Electric;Ranger 305D;18-may-24;Fuga en conducto de combustible;2;Componente defectuoso;6-jun-24;;Oficina 1 - Ushuaia
+FD-000098;EQP-0031;CLI-049;Cliente 049;Hidrolavadora Karcher;Kärcher;HDS 12/18-4 S;18-feb-25;Pérdida de presión en manguera;2;Ajuste incorrecto;26-feb-25;SV-004671;Oficina 3 - Río Grande
+FD-000094;EQP-0069;CLI-049;Cliente 049;Generador Generac Guardian;Generac;Guardian 8 kVA (50Hz);20-ago-25;Fallo en bujías;4;Componente defectuoso;5-sept-25;SV-004889;Depósito 5 - Tolhuin
+FD-000035;EQP-0057;CLI-030;Cliente 030;Soldadora Lincoln Ranger;Lincoln Electric;Ranger 305D;21-mar-25;;5;Desgaste natural;23-mar-25;SV-001762;Planta 4 - Tolhuin
+FD-000013;EQP-0029;CLI-013;Cliente 013;Generador Generac Guardian;Generac;Guardian 8 kVA (50Hz);1-feb-25;Batería sin carga;2;Ajuste incorrecto;15-feb-25;;Depósito 5 - Río Grande
+FD-000090;EQP-0060;CLI-049;Cliente 049;Generador Generac Guardian;Generac;Guardian 8 kVA (50Hz);24-jul-25;Fallo en bujías;2;Componente defectuoso;4-ago-25;;Obra 3 - Tolhuin
+FD-000003;EQP-0082;CLI-001;Cliente 001;Soldadora Lincoln Ranger;Lincoln Electric;Ranger 305D;13-jun-22;Sobretemperatura por radiador obstruido;3;Sobrecarga puntual;2-jul-22;;Planta 4 - Río Grande
+FD-000100;EQP-0075;CLI-049;Cliente 049;Motor Cummins;Cummins;QSB 4.5;6-abr-24;Inyectores con suciedad;5;Componente defectuoso;19-abr-24;;Oficina 2 - Río Grande
+FD-000049;EQP-0049;CLI-036;Cliente 036;Motor Cummins;Cummins;QSB 6.7;21-ene-25;Temperatura elevada del refrigerante;2;Desgaste natural;24-ene-25;;Sucursal 5 - Río Grande
+FD-000104;EQP-0004;CLI-049;Cliente 049;Soldadora Lincoln Ranger;Lincoln Electric;Ranger 305D;28-jul-24;Dificultad de arranque (batería baja);3;Componente defectuoso;30-jul-24;;Planta 4 - Tolhuin
+FD-000006;EQP-0041;CLI-005;Cliente 005;Soldadora Lincoln Ranger;Lincoln Electric;Ranger 305D;20-mar-24;Dificultad de arranque (batería baja);1;Desgaste natural;28-mar-24;SV-000236;Taller 2 - Ushuaia
+FD-000081;EQP-0038;CLI-044;Cliente 044;Soldadora Lincoln Ranger;Lincoln Electric;Ranger 305D;25-mar-23;Fuga en conducto de combustible;3;Ajuste incorrecto;5-abr-23;;Taller 1 - Río Grande
+FD-000043;EQP-0002;CLI-036;Cliente 036;Motor Cummins;Cummins;QSB 6.7;9-ene-22;Baja presión de combustible;4;Falta de limpieza;27-ene-22;;Sucursal 4 - Tolhuin
+FD-000001;EQP-0048;CLI-001;Cliente 001;Generador Generac Guardian;Generac;Guardian 8 kVA (50Hz);17-may-25;Bajo voltaje de salida;4;Ajuste incorrecto;18-may-25;;Planta 3 - Ushuaia
+FD-000028;EQP-0043;CLI-030;Cliente 030;Motor Cummins;Cummins;QSB 4.5;6-feb-22;;4;Falta de limpieza;6-feb-22;;Depósito 3 - Río Grande
+FD-000025;EQP-0066;CLI-026;Cliente 026;Soldadora Lincoln Ranger;Lincoln Electric;Ranger 305D;16-jul-25;Dificultad de arranque (batería baja);3;Componente defectuoso;18-jul-25;;Obra 5 - Tolhuin
+FD-000019;EQP-0032;CLI-026;Cliente 026;Hidrolavadora Karcher;Kärcher;HDS 9/18-4 M;21-feb-23;Quemador no enciende;3;Sobrecarga puntual;4-mar-23;;Planta 3 - Ushuaia
+FD-000036;EQP-0093;CLI-030;Cliente 030;Soldadora Lincoln Ranger;Lincoln Electric;Ranger 305D;11-mar-23;Fuga en conducto de combustible;4;Componente defectuoso;16-mar-23;SV-001889;Sucursal 4 - Ushuaia
