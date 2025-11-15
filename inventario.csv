@@ -1,0 +1,88 @@
+inventario_id,cliente_id_combinada,tipo_equipo,marca,modelo,numero_serie,fecha_compra,unidad,ubicacion_id,ciudad_localidad,estado_operativo,combustible,combustible_normalizado,potencia_valor,potencia_unidad,horometro_actual_h,garantia_activa,ultima revición
+EQP-0005,Cliente 001 CLI-001,Motor Cummins,Cummins,QSB 6.7,CUQSB6-613758,14/09/25,Oficina,2,Tolhuin,Mantenimiento,Diésel,Diésel,180,kW,678,Sí,14/09/25
+EQP-0037,Cliente 032 CLI-032,Generador Generac Guardian,Generac,Guardian 13 kVA (50Hz),GEGUAR-227016,10/04/24,Obra,3,Tolhuin,Operativo,Gas Natural / GLP,Gas,10,kVA,4173,No,10/04/24
+EQP-0047,Cliente 044 CLI-044,Motor Cummins,Cummins,QSB 6.7,CUQSB6-906395,27/08/24,Obra,5,Río Grande,Operativo,Diésel,Diésel,125,kW,785,Sí,27/08/24
+EQP-0086,Cliente 014 CLI-014 ,Motor Cummins,Cummins,QSB 6.7,CUQSB6-283675,01/07/24,Planta,4,Río Grande,Operativo,Diésel,Diésel,180,kW,812,Sí,01/07/24
+EQP-0021,Cliente 026 CLI-026 ,Motor Cummins,Cummins,QSB 4.5,CUQSB4-906790,10/08/24,Obra,2,Río Grande,Operativo,Diésel,Diésel,180,kW,3890,No,10/08/24
+EQP-0044,Cliente 017 CLI-017,Soldadora Lincoln Ranger,Lincoln Electric,Ranger 305D,LIRANG-639542,27/08/24,Taller,5,Río Grande,Operativo,Diésel,Diésel,95,kW,6324,No,27/08/24
+EQP-0080,Cliente 049 CLI-049,Motor Cummins,Cummins,QSB 6.7,CUQSB6-632954,11/09/24,Depósito,3,Ushuaia,Operativo,Diésel,Diésel,180,kW,3559,No,11/09/24
+EQP-0015,Cliente 032 CLI-032,Hidrolavadora Karcher,Kärcher,HDS 12/18-4 S,KÄHDS1-547556,21/12/24,Planta,4,Ushuaia,Operativo,Eléctrico + Gasóleo (quemador),Mixto,180,bar,877,No,21/12/24
+EQP-0018,Cliente 026 CLI-026,Soldadora Lincoln Ranger,Lincoln Electric,Ranger 305D,LIRANG-718992,31/10/24,Obra,3,Tolhuin,Mantenimiento,Diésel,Diésel,95,kW,3479,No,31/10/24
+EQP-0066,Cliente 026 CLI-026,Soldadora Lincoln Ranger,Lincoln Electric,Ranger 305D,LIRANG-143925,07/05/24,Obra,5,Río Grande,en_mantenimiento,Diésel,Diésel,95,kW,6754,No,07/05/24
+EQP-0090,Cliente 024 CLI-024,Motor Cummins,Cummins,QSB 4.5,CUQSB4-330785,27/04/24,Sucursal,4,Ushuaia,Operativo,Diésel,Diésel,150,kW,2192,No,27/04/24
+EQP-0038,Cliente 044 CLI-044,Soldadora Lincoln Ranger,Lincoln Electric,Ranger 305D,LIRANG-680466,22/01/25,Taller,1,Río Grande,Operativo,Diésel,Diésel,95,kW,2029,No,22/01/25
+EQP-0092,Cliente 026 CLI-026,Generador Generac Guardian,Generac,Guardian 13 kVA (50Hz),GEGUAR-317215,04/08/25,Planta,2,Tolhuin,Operativo,Gas Natural / GLP,Gas,13,kVA,1332,No,04/08/25
+EQP-0014,Cliente 044 CLI-044,Soldadora Lincoln Ranger,Lincoln Electric,Ranger 305D,LIRANG-352764,12/07/24,Sucursal,4,Tolhuin,Operativo,Diésel,Diésel,300,A,null,No,12/07/24
+EQP-0002,Cliente 036 CLI-036,Motor Cummins,Cummins,QSB 6.7,CUQSB6-271836,08/06/24,Sucursal,4,Tolhuin,en operación,Diésel,Diésel,125,kW,4057,No,08/06/24
+EQP-0053,Cliente 044 CLI-044,Hidrolavadora Karcher,Kärcher,HDS 12/18-4 S,KÄHDS1-735605,03/12/24,Oficina,2,Ushuaia,Operativo,Eléctrico + Gasóleo (quemador),Mixto,180,bar,1240,No,03/12/24
+EQP-0020,Cliente 028 CLI-028,Motor Cummins,Cummins,QSB 4.5,CUQSB4-979090,04/12/24,Depósito,3,Río Grande,Operativo,Diésel,Diésel,150,kW,1739,No,04/12/24
+EQP-0076,Cliente 044 CLI-044,Motor Cummins,Cummins,QSB 4.5,CUQSB4-295716,11/10/24,Oficina,1,Ushuaia,Operativo,Diésel,Diésel,125,kW,33007,No,11/10/24
+EQP-0062,Cliente 044 CLI-044,Generador Generac Guardian,Generac,Guardian 10 kVA (50Hz),GEGUAR-716210,18/08/24,Obra,1,Río Grande,Operativo,Gas Natural / GLP,Gas,8,kVA,2850,No,18/08/24
+EQP-0098,Cliente 039 CLI-039,Soldadora Lincoln Ranger,Lincoln Electric,Ranger 305D,LIRANG-322320,10/12/24,Sucursal,3,Tolhuin,Operativo,Diésel,Diésel,95,kW,1506,No,10/12/24
+EQP-0094,Cliente 044 CLI-044,Hidrolavadora Karcher,Kärcher,HDS 9/18-4 M,KÄHDS9-618271,19/07/25,Taller,2,Ushuaia,Operativo,Eléctrico + Gasóleo (quemador),Mixto,180,bar,6196,No,19/07/25
+EQP-0013,Cliente 036 CLI-036,Hidrolavadora Karcher,Kärcher,HDS 9/18-4 M,KÄHDS9-277247,05/08/25,Oficina,1,Tolhuin,Operativo,Eléctrico + Gasóleo (quemador),Mixto,180,bar,42079,No,05/08/25
+EQP-0082,Cliente 001 CLI-001,Soldadora Lincoln Ranger,Lincoln Electric,Ranger 305D,LIRANG-258768,29/04/25,Planta,4,Tolhuin,Operativo,Diésel,Diésel,300,A,2213,No,29/04/25
+EQP-0063,Cliente 048 CLI-048,Soldadora Lincoln Ranger,Lincoln Electric,Ranger 305D,LIRANG-101917,16/11/24,Sucursal,4,Tolhuin,Operativo,Diésel,Diésel,95,kW,5049,No,16/11/24
+EQP-0025,Cliente 005 CLI-005,Soldadora Lincoln Ranger,Lincoln Electric,Ranger 305D,LIRANG-159163,18/07/25,Oficina,4,Tolhuin,operativo ,Diésel,Diésel,300,A,321,Sí,18/07/25
+EQP-0059,Cliente 049 CLI-049,Soldadora Lincoln Ranger,Lincoln Electric,Ranger 305D,LIRANG-287210,17/05/24,Oficina,1,Río Grande,Operativo,Diésel,Diésel,95,kW,914,No,17/05/24
+EQP-0057,Cliente 030 CLI-030,Soldadora Lincoln Ranger,Lincoln Electric,Ranger 305D,LIRANG-637198,13/06/25,Planta,4,Tolhuin,Mantenimiento,Diésel,Diésel,300,A,4497,No,13/06/25
+EQP-0006,Cliente 036 CLI-036 ,Soldadora Lincoln Ranger,Lincoln Electric,Ranger 305D,LIRANG-276089,30/04/25,Planta,1,Tolhuin,Operativo,Diésel,Diésel,95,kW,509,Sí,30/04/25
+EQP-0030,Cliente 036 CLI-036,Motor Cummins,Cummins,QSB 6.7,CUQSB6-792440,25/10/24,Taller,4,Tolhuin,Operativo,Diésel,Diésel,180,kW,3294,No,25/10/24
+EQP-0036,Cliente 044 CLI-044,Generador Generac Guardian,Generac,Guardian 10 kVA (50Hz),GEGUAR-166203,09/10/24,Taller,2,Tolhuin,en operación,Gas Natural / GLP,Gas,13,kVA,4467,No,09/10/24
+EQP-0096,Cliente 048 CLI-048,Hidrolavadora Karcher,Kärcher,HDS 9/18-4 M,KÄHDS9-277900,17/04/25,Planta,5,Ushuaia,Operativo,Eléctrico + Gasóleo (quemador),Mixto,180,bar,1263,Sí,17/04/25
+EQP-0098,Cliente 039 CLI-039,Soldadora Lincoln Ranger,Lincoln Electric,Ranger 305D,LIRANG-322320,10/12/24,Sucursal,3,Tolhuin,Operativo,Diésel,Diésel,95,kW,1506,No,10/12/24
+EQP-0022,Cliente 004 CLI-004,Soldadora Lincoln Ranger,Lincoln Electric,Ranger 305D,LIRANG-320156,08/08/24,Planta,4,Tolhuin,Operativo,Diésel,Diésel,300,A,2011,No,08/08/24
+EQP-0088,Cliente 044 CLI-044,Hidrolavadora Karcher,Kärcher,HDS 9/18-4 M,KÄHDS9-999885,16/07/25,Sucursal,4,Tolhuin,Mantenimiento,Eléctrico + Gasóleo (quemador),Mixto,180,bar,1205,No,16/07/25
+EQP-0039,Cliente 044 CLI-044,Hidrolavadora Karcher,Kärcher,HDS 9/18-4 M,KÄHDS9-161813,27/09/25,Planta,2,Ushuaia,Operativo,Eléctrico + Gasóleo (quemador),Mixto,180,bar,7740,No,27/09/25
+EQP-0048,Cliente 001 CLI-001 ,Generador Generac Guardian,Generac,Guardian 8 kVA (50Hz),GEGUAR-871954,20/08/25,Planta,3,Ushuaia,Operativo,Gas Natural / GLP,Gas,13,kVA,554,Sí,20/08/25
+EQP-0031,Cliente 049 CLI-049,Hidrolavadora Karcher,Kärcher,HDS 12/18-4 S,KÄHDS1-849074,03/07/25,Oficina,3,Río Grande,en operación,Eléctrico + Gasóleo (quemador),Mixto,180,bar,1805,Sí,03/07/25
+EQP-0043,Cliente 030 CLI-030,Motor Cummins,Cummins,QSB 4.5,CUQSB4-608153,22/07/25,Depósito,3,Río Grande,operativo ,Diésel,Diésel,125,kW,4612,No,22/07/25
+EQP-0026,Cliente 026 CLI-026,Hidrolavadora Karcher,Kärcher,HDS 12/18-4 S,KÄHDS1-766490,09/01/24,Taller,4,Río Grande,Operativo,Eléctrico + Gasóleo (quemador),Mixto,180,bar,1022,No,09/01/24
+EQP-0093,Cliente 030 CLI-030,Soldadora Lincoln Ranger,Lincoln Electric,Ranger 305D,LIRANG-248757,08/10/24,Sucursal,4,Ushuaia,Operativo,Diésel,Diésel,300,A,4222,No,08/10/24
+EQP-0087,Cliente 038 CLI-038,Soldadora Lincoln Ranger,Lincoln Electric,Ranger 305D,LIRANG-436199,16/07/24,Oficina,1,Tolhuin,Operativo,Diésel,Diésel,95,kW,3514,No,16/07/24
+EQP-0096,Cliente 048 CLI-048,Hidrolavadora Karcher,Kärcher,HDS 9/18-4 M,KÄHDS9-277900,17/04/25,Planta,5,Río Grande,Operativo,Eléctrico + Gasóleo (quemador),Mixto,180,bar,1263,Sí,17/04/25
+EQP-0056,Cliente 011 CLI-011 ,Motor Cummins,Cummins,QSB 6.7,CUQSB6-499384,10/05/25,Obra,2,Tolhuin,Operativo,Diésel,Diésel,125,kW,464,Sí,10/05/25
+EQP-0043,Cliente 030 CLI-030,Motor Cummins,Cummins,QSB 4.5,CUQSB4-608153,22/07/25,Depósito,3,Río Grande,Operativo,Diésel,Diésel,125,kW,4612,No,22/07/25
+EQP-0058,Cliente 008 CLI-008,Soldadora Lincoln Ranger,Lincoln Electric,Ranger 305D,LIRANG-903692,16/07/24,Oficina,5,Ushuaia,Operativo,Diésel,Diésel,95,kW,2830,No,16/07/24
+EQP-0064,Cliente 038 CLI-038 ,Hidrolavadora Karcher,Kärcher,HDS 12/18-4 S,KÄHDS1-105287,13/04/25,Depósito,4,Ushuaia,Operativo,Eléctrico + Gasóleo (quemador),Mixto,180,bar,2510,No,13/04/25
+EQP-0075,Cliente 049 CLI-049,Motor Cummins,Cummins,QSB 4.5,CUQSB4-306988,04/10/24,Oficina,2,Río Grande,Operativo,Diésel,Diésel,125,kW,3231,No,04/10/24
+EQP-0073,Cliente 044 CLI-044,Soldadora Lincoln Ranger,Lincoln Electric,Ranger 305D,LIRANG-226108,28/04/25,Sucursal,3,Río Grande,Operativo,Diésel,Diésel,300,A,20868,Sí,28/04/25
+EQP-0063,Cliente 048 CLI-048,Soldadora Lincoln Ranger,Lincoln Electric,Ranger 305D,LIRANG-101917,16/11/24,Sucursal,4,Tolhuin,Operativo,Diésel,Diésel,95,kW,5049,No,16/11/24
+EQP-0019,Cliente 036 CLI-036,Generador Generac Guardian,Generac,Guardian 13 kVA (50Hz),GEGUAR-599522,01/08/24,Planta,1,Ushuaia,Operativo,Gas Natural / GLP,Gas,10,kVA,1953,No,01/08/24
+EQP-0042,Cliente 048 CLI-048,Soldadora Lincoln Ranger,Lincoln Electric,Ranger 305D,LIRANG-943523,01/10/25,Oficina,1,Ushuaia,servicio,Diésel,Diésel,300,A,45437,No,01/10/25
+EQP-0010,Cliente 030 CLI-030,Motor Cummins,Cummins,QSB 6.7,CUQSB6-213632,08/09/25,Taller,4,Tolhuin,Operativo,Diésel,Diésel,150,kW,256,Sí,08/09/25
+EQP-0081,Cliente 040 CLI-040,Soldadora Lincoln Ranger,Lincoln Electric,Ranger 305D,LIRANG-429670,03/04/25,Obra,5,Ushuaia,Operativo,Diésel,Diésel,300,A,1461,No,03/04/25
+EQP-0067,Cliente 005 CLI-005,Hidrolavadora Karcher,Kärcher,HDS 9/18-4 M,KÄHDS9-622244,15/12/24,Sucursal,3,Ushuaia,Operativo,Eléctrico + Gasóleo (quemador),Mixto,180,bar,4317,No,15/12/24
+EQP-0064,Cliente 038 CLI-038 ,Hidrolavadora Karcher,Kärcher,HDS 12/18-4 S,KÄHDS1-105287,13/04/25,Depósito,4,Ushuaia,Operativo,Eléctrico + Gasóleo (quemador),Mixto,180,bar,2510,No,13/04/25
+EQP-0074,Cliente 049 CLI-049,Generador Generac Guardian,Generac,Guardian 10 kVA (50Hz),GEGUAR-964266,23/12/24,Oficina,2,Río Grande,Operativo,Gas Natural / GLP,Gas,10,kVA,5460,No,23/12/24
+EQP-0046,Cliente 039 CLI-039,Hidrolavadora Karcher,Kärcher,HDS 9/18-4 M,KÄHDS9-170390,01/11/24,Sucursal,2,Río Grande,Operativo,Eléctrico + Gasóleo (quemador),Mixto,180,bar,2452,No,01/11/24
+EQP-0003,Cliente 048 CLI-048,Soldadora Lincoln Ranger,Lincoln Electric,Ranger 305D,LIRANG-182989,24/02/25,Taller,3,Ushuaia,Operativo,Diésel,Diésel,95,kW,2952,No,24/02/25
+EQP-0035,Cliente 026 CLI-026,Generador Generac Guardian,Generac,Guardian 13 kVA (50Hz),GEGUAR-734421,13/08/24,Oficina,3,Tolhuin,Operativo,Gas Natural / GLP,Gas,8,kVA,919,Sí,13/08/24
+EQP-0061,Cliente 026 CLI-026,Motor Cummins,Cummins,QSB 4.5,CUQSB4-360669,16/05/24,Planta,2,Ushuaia,Mantenimiento,Diésel,Diésel,125,kW,1639,Sí,16/05/24
+EQP-0007,Cliente 036 CLI-036,Motor Cummins,Cummins,QSB 4.5,CUQSB4-653880,12/04/24,Taller,4,Tolhuin,Operativo,Diésel,Diésel,180,kW,3751,No,12/04/24
+EQP-0069,Cliente 049 CLI-049,Generador Generac Guardian,Generac,Guardian 8 kVA (50Hz),GEGUAR-538774,10/05/25,Depósito,5,Ushuaia,servicio,Gas Natural / GLP,Gas,10,kVA,1538,Sí,10/05/25
+EQP-0052,Cliente 016 CLI-016,Motor Cummins,Cummins,QSB 4.5,CUQSB4-480975,17/10/24,Taller,1,Ushuaia,Operativo,Diésel,Diésel,150,kW,795,Sí,17/10/24
+EQP-0078,Cliente 005 CLI-005,Hidrolavadora Karcher,Kärcher,HDS 12/18-4 S,KÄHDS1-905688,08/08/24,Planta,3,Río Grande,en operación,Eléctrico + Gasóleo (quemador),Mixto,180,bar,838,Sí,08/08/24
+EQP-0027,Cliente 049 CLI-049,Soldadora Lincoln Ranger,Lincoln Electric,Ranger 305D,LIRANG-450605,21/08/25,Depósito,5,Tolhuin,Operativo,Diésel,Diésel,95,kW,3512,No,21/08/25
+EQP-0033,Cliente 044 CLI-044,Generador Generac Guardian,Generac,Guardian 8 kVA (50Hz),GEGUAR-922827,07/06/25,Taller,5,Ushuaia,Operativo,Gas Natural / GLP,Gas,8,kVA,2418,No,07/06/25
+EQP-0072,Cliente 032 CLI-032 ,Soldadora Lincoln Ranger,Lincoln Electric,Ranger 305D,LIRANG-274944,28/04/24,Obra,2,Ushuaia,Operativo,Diésel,Diésel,300,A,130,Sí,28/04/24
+EQP-0012,Cliente 030 CLI-030,Soldadora Lincoln Ranger,Lincoln Electric,Ranger 305D,LIRANG-128251,04/06/25,Depósito,2,Ushuaia,Operativo,Diésel,Diésel,95,kW,4636,No,04/06/25
+EQP-0017,Cliente 049 CLI-049,Hidrolavadora Karcher,Kärcher,HDS 9/18-4 M,KÄHDS9-647577,05/04/25,Sucursal,2,Ushuaia,Operativo,Eléctrico + Gasóleo (quemador),Mixto,180,bar,null,Sí,05/04/25
+EQP-0091,Cliente 044 CLI-044,Hidrolavadora Karcher,Kärcher,HDS 9/18-4 M,KÄHDS9-220674,18/02/25,Obra,2,Río Grande,Operativo,Eléctrico + Gasóleo (quemador),Mixto,180,bar,317,Sí,18/02/25
+EQP-0099,Cliente 005 CLI-005,Soldadora Lincoln Ranger,Lincoln Electric,Ranger 305D,LIRANG-515008,22/08/24,Obra,4,Tolhuin,en_mantenimiento,Diésel,Diésel,300,A,4353,No,22/08/24
+EQP-0054,Cliente 033 CLI-033,Soldadora Lincoln Ranger,Lincoln Electric,Ranger 305D,LIRANG-358930,24/04/24,Sucursal,3,Río Grande,Operativo,Diésel,Diésel,300,A,716,Sí,24/04/24
+EQP-0083,Cliente 005 CLI-005,Soldadora Lincoln Ranger,Lincoln Electric,Ranger 305D,LIRANG-251878,31/07/25,Planta,5,Tolhuin,servicio,Diésel,Diésel,300,A,3974,No,31/07/25
+EQP-0084,Cliente 044 CLI-044,Soldadora Lincoln Ranger,Lincoln Electric,Ranger 305D,LIRANG-273532,21/12/24,Oficina,3,Río Grande,Mantenimiento,Diésel,Diésel,300,A,4537,No,21/12/24
+EQP-0009,Cliente 009 CLI-009,Generador Generac Guardian,Generac,Guardian 10 kVA (50Hz),GEGUAR-805086,12/08/25,Oficina,5,Ushuaia,Operativo,Gas Natural / GLP,Gas,10,kVA,3140,No,12/08/25
+EQP-0034,Cliente 044 CLI-044,Soldadora Lincoln Ranger,Lincoln Electric,Ranger 305D,LIRANG-523570,15/02/25,Obra,1,Río Grande,Operativo,Diésel,Diésel,300,A,null,No,15/02/25
+EQP-0068,Cliente 049 CLI-049,Motor Cummins,Cummins,QSB 6.7,CUQSB6-830406,26/08/24,Oficina,3,Río Grande,Operativo,Diésel,Diésel,180,kW,3755,No,26/08/24
+EQP-0029,Cliente 013 CLI-013,Generador Generac Guardian,Generac,Guardian 8 kVA (50Hz),GEGUAR-905497,04/09/24,Depósito,5,Tolhuin,Operativo,Gas Natural / GLP,Gas,10,kVA,1672,No,04/09/24
+EQP-0010,Cliente 030 CLI-030,Motor Cummins,Cummins,QSB 6.7,CUQSB6-213632,09/08/25,Taller,4,Río Grande,Operativo,Diésel,Diésel,150,kW,256,Sí,09/08/25
+EQP-0077,Cliente 044 CLI-044,Generador Generac Guardian,Generac,Guardian 10 kVA (50Hz),GEGUAR-275399,12/08/25,Planta,3,Río Grande,Mantenimiento,Gas Natural / GLP,Gas,10,kVA,3163,No,12/08/25
+EQP-0070,Cliente 044 CLI-044,Motor Cummins,Cummins,QSB 4.5,CUQSB4-590025,06/09/24,Obra,5,Ushuaia,Mantenimiento,Diésel,Diésel,150,kW,664,Sí,06/09/24
+EQP-0016,Cliente 049 CLI-049,Soldadora Lincoln Ranger,Lincoln Electric,Ranger 305D,LIRANG-555968,26/10/24,Oficina,5,Ushuaia,Operativo,Diésel,Diésel,300,A,1122,No,26/10/24
+EQP-0045,Cliente 005 CLI-005,Soldadora Lincoln Ranger,Lincoln Electric,Ranger 305D,LIRANG-762301,30/11/24,Sucursal,3,Río Grande,Mantenimiento,Diésel,Diésel,95,kW,389,Sí,30/11/24
+EQP-0087,Cliente 038 CLI-038,Soldadora Lincoln Ranger,Lincoln Electric,Ranger 305D,LIRANG-436199,16/07/24,Oficina,1,Tolhuin,Operativo,Diésel,Diésel,95,kW,null,No,16/07/24
+EQP-0079,Cliente 014 CLI-014,Motor Cummins,Cummins,QSB 6.7,CUQSB6-925656,18/05/25,Taller,2,Tolhuin,en operación,Diésel,Diésel,150,kW,869,Sí,18/05/25
+EQP-0085,Cliente 001 CLI-001,Generador Generac Guardian,Generac,Guardian 8 kVA (50Hz),GEGUAR-662288,22/03/25,Depósito,3,Tolhuin,en operación,Gas Natural / GLP,Gas,13,kVA,4630,No,22/03/25
+EQP-0073,Cliente 044 CLI-044,Soldadora Lincoln Ranger,Lincoln Electric,Ranger 305D,LIRANG-226108,28/04/25,Obra,4,Río Grande,Operativo,Diésel,Diésel,300,A,621,Sí,28/04/25
